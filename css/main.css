@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background: url(/images/Home.jpg);
+  background: url(images/Home.jpg);
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -139,7 +139,7 @@ h2 {
 .about {
   width: 100%;
   min-height: 300px;
-  background-image: url(/images/numbers.jpg);
+  background-image: url(images/numbers.jpg);
   background-size: cover;
   background-position: center;
   justify-content: center;
